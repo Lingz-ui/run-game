@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/squad-404">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=18&width=280&lines=I+♥+Israel"
+            src="https://readme-typing-svg.herokuapp.com?size=18&width=280&lines=:)"
             alt="404"
         />
     </a>
